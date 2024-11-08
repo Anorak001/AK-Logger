@@ -1,5 +1,7 @@
 # AK-Logger
 
+- Advanced Keylogger with both audio and keystroke capturing capturing capabilites and later storing them all together into a binary file
+
 
 
 ### How to Set Up and Run the Project
